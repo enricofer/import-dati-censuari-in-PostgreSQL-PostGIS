@@ -268,7 +268,7 @@ CREATE TABLE sogp
 	nome TEXT,
 	sesso TEXT,
 	data_nascita TEXT,
-	codice_amministratvio_comune_nascita TEXT,
+	codice_amministrativo_comune_nascita TEXT,
 	codice_fiscale	TEXT,
 	indicazioni_supplementari TEXT
 );
