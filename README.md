@@ -1431,7 +1431,7 @@ SELECT
     p.cognome,
     p.nome,
     p.data_nascita,
-    p.codice_fiscale,
+    p.codice_fiscale
 	FROM titp t
 	JOIN sogp p ON t.identificativo_soggetto = p.identificativo_soggetto
 ```
